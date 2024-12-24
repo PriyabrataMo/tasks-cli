@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of `go build` and other temporary files
+*.out
+*.o
+*.a
+
+# Go module files
+vendor/
+
+# Test binary
+*.test
+
+# Logs
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Application-specific files
+
+tasks.exe
+*.csv
+main
+
+# Environment files
+.env
